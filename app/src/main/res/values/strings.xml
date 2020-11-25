@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">БЖД тест</string>
+    <string name="select_count">Кількість питань:</string>
+    <string name="max">(не більше 60)</string>
+    <string name="question">Питання:</string>
+
+    <string name="rigts">Правильних відповідей:</string>
+    <string name="invalids">Неправильних відповідей:</string>
+    <string name="balls">Всього набрано балів:</string>
+    <string name="scale">(по 5 бальній системі)</string>
+    <string name="to_general">НА ГОЛОВНУ</string>
+
+    <string name="btnStart">ПОЧАТИ ТЕСТУВАННЯ</string>
+
+    <string name="btnAnswer">ВІДПОВІСТИ</string>
+    <string name="answers">Варіанти відповіді:</string>
+
+
+</resources>
